@@ -1,5 +1,5 @@
 #navbar {
-    height: 180px;
+    height: 210px;
 }
 
 #navbar-container {
@@ -20,7 +20,7 @@
 
 /* Showcase */
 #showcase-container {
-    padding: 40px;
+    padding: 30%;
 }
 
 /* Clients */
